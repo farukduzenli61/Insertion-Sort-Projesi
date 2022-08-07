@@ -11,7 +11,7 @@
 
 >2. Big-O gösterimini yazınız.
 
-O(n)
+O(n^2)
 
 >3. Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 
